@@ -42,8 +42,8 @@ export default function Contact() {
               </div>
               <h3 className="text-xl font-bold mb-2">Call Us</h3>
               <p className="text-gray-600 mb-2">Mon-Fri from 8am to 8pm</p>
-              <a href="tel:+15551234567" className="text-orange-500 font-semibold hover:text-orange-600">
-                +1 (555) 123-4567
+              <a href="tel:+251932265233" className="text-orange-500 font-semibold hover:text-orange-600">
+                +251 93 226 5233
               </a>
             </div>
 
@@ -53,8 +53,8 @@ export default function Contact() {
               </div>
               <h3 className="text-xl font-bold mb-2">Email Us</h3>
               <p className="text-gray-600 mb-2">We'll respond within 24 hours</p>
-              <a href="mailto:hello@evo.fashion" className="text-orange-500 font-semibold hover:text-orange-600">
-                hello@evo.fashion
+              <a href="mailto:geseseteshome@gmail.com" className="text-orange-500 font-semibold hover:text-orange-600">
+                geseseteshome@gmail.com
               </a>
             </div>
 

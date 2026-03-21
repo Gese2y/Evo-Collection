@@ -37,11 +37,11 @@ export default function Footer() {
             <div className="space-y-3 text-sm">
               <div className="flex items-center text-gray-400">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>+1 (555) 123-4567</span>
+                <span>+251 93 226 5233</span>
               </div>
               <div className="flex items-center text-gray-400">
                 <Mail className="w-4 h-4 mr-2" />
-                <span>hello@evo.fashion</span>
+                <span>geseseteshome@gmail.com</span>
               </div>
               <div className="flex items-center text-gray-400">
                 <MapPin className="w-4 h-4 mr-2" />
@@ -63,7 +63,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2024 EVO Fashion. All rights reserved.</p>
+          <p>&copy; Developed by Gesese Teshome.</p>
         </div>
       </div>
     </footer>
